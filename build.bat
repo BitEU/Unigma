@@ -115,7 +115,7 @@ if %ERRORLEVEL% EQU 0 (
     echo Output: unigma_univac.exe
 
     REM Display file size
-    for %%A in (unigma_univac.exe^) do (
+    for %%A in (unigma_univac.exe) do (
         echo File size: %%~zA bytes
     )
     echo.
