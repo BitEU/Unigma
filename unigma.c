@@ -1,9 +1,9 @@
 /*
- * Unigma: The Little UNIVAC Enigma Simulator
- * ROTORS: I, II, III | REFLECTOR: B
- *
- * Main implementation
- * Portable C implementation for Windows Console and UNIVAC
+ * Program Name: Unigma
+ * Program Release Year: 2025
+ * Program Author: Steven S.
+ * Program Link: https://github.com/BitEU/Unigma
+ * Purpose: A simple implementation of an Enigma machine with rotors I, II, III and Reflector B with Windows Console/UNIVAC 1219 support
  */
 
 #include "unigma.h"
